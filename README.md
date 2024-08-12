@@ -18,4 +18,4 @@ Once all words are provided, the program will display the completed Mad Libs sto
 
 funset.py: The main Python script containing the game logic.
 
-Enjoy creating funny stories with your friends!
+Enjoy creating funny stories with your friends!..
