@@ -17,6 +17,7 @@ adjective = input('Choose an adjective (Describing word): ')
 noun3 = input('Choose a noun: ')
 
 #printing a story from the user input
+print("THERE IS POEM BY YOUR OWN WORDS")
 
 print('------------------------------------------')
 
