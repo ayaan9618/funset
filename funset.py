@@ -1,3 +1,5 @@
+#funset made by ayaan
+
 # questions for the user to answer
 
 noun = input('Choose a noun: ')
