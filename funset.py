@@ -1,4 +1,4 @@
-# Questions for the user to answer
+# questions for the user to answer
 
 noun = input('Choose a noun: ')
 
@@ -12,7 +12,7 @@ adjective = input('Choose an adjective (Describing word): ')
 
 noun3 = input('Choose a noun: ')
 
-# Print a story from the user input
+#printing a story from the user input
 
 print('------------------------------------------')
 
