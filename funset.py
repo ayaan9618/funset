@@ -1,5 +1,7 @@
 #funset made by ayaan
-
+print('------------------------------------------')
+print("WELCOME FUNSET - THE GAME OF WORDS ")
+print('------------------------------------------')
 # questions for the user to answer
 
 noun = input('Choose a noun: ')
