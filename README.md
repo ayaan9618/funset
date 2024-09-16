@@ -1,4 +1,4 @@
-**Funset - A Python Mad Libs Project**
+###Funset - A Python Mad Libs Project
 
 This project, named funset, is a Python program that implements a classic Mad Libs game. It allows you to create a funny story by replacing certain words (nouns, places, adjectives) with user-provided inputs.
 
@@ -18,5 +18,5 @@ Once all words are provided, the program will display the completed Mad Libs sto
 **Project Files:**
 
 funset.py: The main Python script containing the game logic.
-
+----------------------------------------------------------------------------------------------------------------------------------------------
 Enjoy creating funny stories with your friends!..
